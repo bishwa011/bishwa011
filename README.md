@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishwa Prakash Subedi</h1>
-<h3 align="center">A Data Science and Machine Learning Enthusiast from NEPAL</h3>
+<h3 align="center">Junior Data Scientist and a Machine Learning Enthusiast from NEPAL</h3>
 <img align ="right" alt="coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV724M4QSVD6ts7BHGXbmsUAl-Mv055jiMw"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwa011&label=Profile%20views&color=0e75b6&style=flat" alt="bishwa011" /> </p>
